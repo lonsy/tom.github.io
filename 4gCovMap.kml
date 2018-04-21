@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  <name>0</name>
+  <Region>
+   <Lod>
+    <minLodPixels>1</minLodPixels>
+    <maxLodPixels>-1</maxLodPixels>
+   </Lod>
+   <LatLonAltBox>
+      <north>9.8712</north>
+      <south>5.8752</south>
+      <east>81.9272</east>
+      <west>79.6496</west>
+   </LatLonAltBox>
+  </Region>
+  <GroundOverlay>
+   <drawOrder>0</drawOrder>
+   <Icon>
+    <href>overlay/4gCovMap.png</href>
+   </Icon>
+   <LatLonBox>
+      <north>9.8712</north>
+      <south>5.8752</south>
+      <east>81.9272</east>
+      <west>79.6496</west>
+   </LatLonBox>
+  </GroundOverlay>
+ </Document>
+</kml>
